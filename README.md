@@ -8,3 +8,5 @@ The datasets are retrieved from the COVID-19 Data Repository by the Center for S
 Pandas, Plotly, Numpy
 
 ## Summary
+
+![Alt text](output/us_cases.png "us_cases")
