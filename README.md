@@ -11,3 +11,6 @@ Pandas, Plotly, Numpy
 
 <img src="output/us_cases.png" height="200">
 
+<img src="output/us_deaths.png" height="200">
+
+<img src="output/us_VacAndDeaths.png" height="200">
