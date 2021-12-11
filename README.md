@@ -9,4 +9,7 @@ Pandas, Plotly, Numpy
 
 ## Summary
 
-![Alt text](output/us_cases.png "us_cases")
+![Plot 1](output/us_cases.png "us_cases" height="790")
+
+![Plot 1](output/us_cases.png "us_cases" height="300")
+![Plot 1](output/us_cases.png "us_cases" width="450" height="200")
