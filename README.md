@@ -11,5 +11,6 @@ Pandas, Plotly, Numpy
 
 ![Plot 1](output/us_cases.png "us_cases" height="790")
 
-![Plot 1](output/us_cases.png "us_cases" height="300")
-![Plot 1](output/us_cases.png "us_cases" width="450" height="200")
+![Plot 2](output/us_cases.png "us_cases1" height="300")
+
+![Plot 3](output/us_cases.png "us_cases2" width="450" height="200")
