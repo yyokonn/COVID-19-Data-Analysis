@@ -126,7 +126,8 @@ def analyze_Global():
     #Calculate death rate for each country, May'21-Oct.'21
     #combine no. cases for all regions within each country
     timeFrame_d = df_d.groupby(df_d.columns[1]).sum().reset_index()
-    timeFrame_v = df_v.groupby(df_v.columns[7]).sum().reset_index()
+    #timeFrame_v = df_v.groupby(df_v.columns[7]).sum().reset_index()
+    timeFrame_v = df_v.groupby(df_v.columns[7]).first().reset_index()
 
     start = timeFrame_d.columns.get_loc('4/1/21')
     end = timeFrame_d.columns.get_loc('10/31/21')
