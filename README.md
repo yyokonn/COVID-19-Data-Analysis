@@ -8,6 +8,7 @@ The datasets are retrieved from the COVID-19 Data Repository by the Center for S
 Python (Pandas, Plotly, Numpy)
 
 ## Summary
+The 5 plots can be viewed, interactively, with the html files under "output."
 
 To begin with, I created a plot of the daily number of confirmed cases in the U.S., by state and as a country. 
 Below is a screenshot of the plot (an interactive plot is available under "output"). The plot shows multiple waves of cases since around March 2020 until November 2021. We can see that some states including New York, Texas, Florida, and California have had more cases than other states, at various points during the pandemic. 
