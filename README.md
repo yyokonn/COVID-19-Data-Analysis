@@ -9,5 +9,5 @@ Pandas, Plotly, Numpy
 
 ## Summary
 
-![Plot 1] <img src="output/us_cases.png" width="400" height="790">
+![Plot 1] <img src="output/us_cases.png" height="200">
 
